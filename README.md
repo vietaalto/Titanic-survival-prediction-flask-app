@@ -3,3 +3,5 @@ Deploy a flask app to predict the probability of survival based on Titanic datas
 
 
 The app can be accessed at [viet-aalto.com/titanic]
+
+[I'm an inline-style link](https://www.google.com)
